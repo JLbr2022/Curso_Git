@@ -244,3 +244,112 @@
   244  git history --help
   245  git history aula4.txt
   246  history > aula4.txt
+  247  git status
+  248  git add 'aula4.txt'
+  249  ls
+  250  git status
+  251  git commit
+  252  list
+  253  dir
+  254  dir /w
+  255  dir --help
+  256  dir -l
+  257  ls
+  258  ls
+  259  get status
+  260  git status
+  261  list
+  262  dir -l
+  263  dir -l
+  264  git status
+  265  mkdir carpeta2
+  266  ls
+  267  git status
+  268  mv texto2.txt carpeta2
+  269  mv carpeta2/
+  270  mv texto2.txt >> carpeta2
+  271  mv texto2.txt > carpeta2
+  272  mv carpeta2 >> texto2.txt
+  273  mv carpeta2 >> 'texto2.txt'
+  274  mv carpeta2 > 'texto2.txt'
+  275  mv --help
+  276  rm --help
+  277  ls
+  278  cd carpeta2
+  279  ls
+  280  touch 'texto2.txt'
+  281  ls
+  282  cd ..
+  283  ls
+  284  del
+  285  delete
+  286  rd
+  287  dir
+  288  rm -r 'texto2.txt'
+  289  ls
+  290  git status
+  291  ls
+  292  git status
+  293  git status
+  294  git add .
+  295  git status
+  296  cat --help
+  297  git rm carpeta2
+  298  git rm -r carpeta2
+  299  git rm --cached carpeta2
+  300  git rm --cached -r carpeta2
+  301  ls
+  302  get status
+  303  git status
+  304  dir
+  305  cd carpeta2
+  306  dis
+  307  ls
+  308  cd..
+  309  rm carpeta2 -f
+  310  ls
+  311  git status
+  312  git cummit -m 'se elimina carpeta2'
+  313  git commit -m 'se elimina carpeta2'
+  314  git log -oneline
+  315  git log --oneline
+  316  git commit -m 'se elimina carpeta2/'
+  317  git status
+  318  git log 
+  319  git status
+  320  git add .
+  321  git status
+  322  git commit -m 'se elimina carpeta2/ pero se conserva texto2.txt'
+  323  git log -c
+  324  git log --oneline
+  325  ls
+  326  git status
+  327  ls
+  328  ls carpeta2
+  329  git add carpeta2
+  330  git status
+  331  ls
+  332  git checkout
+  333  git status
+  334  git checkout carpeta2
+  335  git status
+  336  git log
+  337  ls
+  338  git reset 37b8e1
+  339  git status
+  340  ls
+  341  rm exit
+  342  ls
+  343  ls carpeta2
+  344  git status
+  345  git commit -m 'restauración carpeta2 con reset al hash 37b8e1'
+  346  git status
+  347  git log --oneline
+  348  git add carpeta2/
+  349  git status
+  350  git commit -m 'restauración carpeta2 con reset al hash 37b8e1'
+  351  git status
+  352  git log --oneline
+  353  git commit -m 'carpeta2/ registrada en stage'
+  354  git log --oneline
+  355  history > aula4.txt

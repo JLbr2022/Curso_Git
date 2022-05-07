@@ -137,3 +137,110 @@
   137  giot log --oneline
   138  git log --oneline
   139  history > aula4.txt
+  140  git add .
+  141  git commit -m 'comandos Aula 4' 
+  142  git status
+  143  ls
+  144  echo .gitinore
+  145  ls
+  146  mkdir .gitignore
+  147  ls
+  148  echo 'test' > .gitignore
+  149  echo 'test/' > .gitignore
+  150  ls
+  151  git status
+  152  git mv test .gitignore
+  153  ls
+  154  git status
+  155  ls
+  156  git status
+  157  git log --oneline
+  158  git checkout HEAD~
+  159  ls
+  160  git status
+  161  git reset test
+  162  git reset a889ef2
+  163  ls
+  164  git checkout master
+  165  ls
+  166  git rm test
+  167  git status
+  168  ls
+  169  mkdir test
+  170  mv configuracion.txt test/
+  171  mv configuracion.txt
+  172  mv configuracion.txt test
+  173  mv configuracion.txt test/
+  174  cd test
+  175  pwd
+  176  cd..
+  177  cd ..
+  178  ls
+  179  mkdir carpeta1
+  180  ls
+  181  touch texto.txt
+  182  ls
+  183  mv texto.txt test
+  184  ls
+  185  ls test
+  186  git status
+  187  mv test .gitinore
+  188  ls
+  189  git log --oneline
+  190  git add test .gitignore
+  191  git add test
+  192  git add test/
+  193  git add /test
+  194  ls
+  195  git add .gitignore
+  196  git add .
+  197  cd .gitignore
+  198  ls
+  199  mv test .
+  200  ls
+  201  mv test ..
+  202  ls
+  203  cd ..
+  204  ls
+  205  git add .gitignore
+  206  rm .gitignore
+  207  echo .gitignore
+  208  ls
+  209  echo '.gitignore'
+  210  touch .gitignore
+  211  ls
+  212  get status
+  213  git status
+  214  git add.
+  215  git add .
+  216  ls
+  217  cd test
+  218  git test
+  219  clear
+  220  rm test
+  221  ls
+  222  git status
+  223  get add .
+  224  git add .
+  225  ls
+  226  cd carpeta1
+  227  ls
+  228  touch texto.txt
+  229  ls
+  230  cd ..
+  231  ls
+  232  git status
+  233  get add carpeta1
+  234  git add carpeta1
+  235  get status
+  236  git sttus
+  237  git status
+  238  git commit -m 'agragando archivo .gitignore'
+  239  git stat
+  240  git status
+  241  git log
+  242  git log --oneline
+  243  git history help
+  244  git history --help
+  245  git history aula4.txt
+  246  history > aula4.txt

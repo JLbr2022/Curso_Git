@@ -1,0 +1,139 @@
+    1  ls
+    2  cls
+    3  clear
+    4  ls -a
+    5  ls ..
+    6  pwd
+    7  clear
+    8  \ls
+    9  cd desktop
+   10  md prueba
+   11  ls
+   12  ls
+   13  cd toti
+   14  mkdir test
+   15  cd test
+   16  cat readme.md
+   17  echo readme.md
+   18  ls
+   19  echo "" > readme.md
+   20  ls
+   21  rm readme.md
+   22  ls
+   23  cat > readme.md
+   24  echo readme.md
+   25  cat readme.md
+   26  rm readme.md
+   27  ls
+   28  history
+   29  git config --global user.name 'Jose Freites'
+   30  git config --global user.email 'jlfu2004@gmail.com'
+   31  git config user.name
+   32  git config user.email
+   33  cd D:
+   34  cd toti
+   35  mkdir Curso_Git
+   36  cd curso_git
+   37  git config user.name
+   38  git init
+   39  git status
+   40  exit
+   41  git log
+   42  D:
+   43  cd D:
+   44  ls
+   45  cd TOTI
+   46  dir
+   47  ls
+   48  cd Curso_git
+   49  ls
+   50  pwd
+   51  clear
+   52  ls
+   53  git init --global user.name "Jose Freites"
+   54  git init --global user.name 'Jose Freites'
+   55  git --init global user.name 'Jose Freites'
+   56  clear
+   57  exit
+   58  git config --global user.name 'Jose Freites'
+   59  git config --global user.email jlfu2004@gmail.com
+   60  ls
+   61  git init
+   62  git config user.name
+   63  git config user.email
+   64  ls
+   65  cd d:
+   66  cd toti
+   67  cd curso_git
+   68  clear
+   69  ls
+   70  clra
+   71  clear
+   72  clea
+   73  clear
+   74  clr
+   75  clear
+   76  git log
+   77  git log -2
+   78  git log -p -2
+   79  git log --prety=online -2
+   80  git status
+   81  touch teste
+   82  git add teste
+   83  git status
+   84  git commit -m 'commit de teste'
+   85  git log
+   86  touch prueba
+   87  git add prueba
+   88  git commit -m 'commit de prueba'
+   89  git log
+   90  ls
+   91  md archivo.txt prueba
+   92  mkdir archivo.txt prueba
+   93  git log
+   94  git checkou~t HEAD~2
+   95  git checkout HEAD~2
+   96  git checkout HEAD~
+   97  git status
+   98  ls
+   99  git checkout MASTER
+  100  git status
+  101  git log
+  102  git checkout master
+  103  git log
+  104  git checkout HEAD~
+  105  git log
+  106  git checkout master
+  107  git log
+  108  clear
+  109  1+1
+  110  clear
+  111  git log
+  112  ls
+  113  add archivo.txt
+  114  git add archivo.txt
+  115  ls
+  116  rm archivo.txt prueba
+  117  git rm archivo.txt
+  118  ls
+  119  git rm -r archivo.txt
+  120  git rm -r archivo.txt
+  121  git commit -m 'archivo.txt'
+  122  ls
+  123  git log
+  124  rm 'archivo.txt'
+  125  git rm -r 'archivo.txt'
+  126  git mv archivo.txt carpeta2
+  127  git mv archivo.txt archivo
+  128  ls
+  129  git mv teste test
+  130  ls
+  131  git rm -r archivo
+  132  git rm -r archivo.txt
+  133  git rm -r 'archivo.txt'
+  134  git log -2
+  135  git log -p -2
+  136  giot log --online
+  137  giot log --oneline
+  138  git log --oneline
+  139  history > aula4.txt
